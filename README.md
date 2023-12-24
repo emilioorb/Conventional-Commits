@@ -92,3 +92,7 @@ _Conventional Changelog_ es una herramienta que automatiza la generación de reg
 [**Conventional Commits**](https://www.conventionalcommits.org/en/v1.0.0/) - [**gitmoji**](https://gitmoji.dev/) - [**commitlint**](https://commitlint.js.org/#/) - [**husky**](https://typicode.github.io/husky/getting-started.html)
 
 Con estos pasos, estarás utilizando _Conventional Commits, Commitlint y Husky_ en conjunto, asegurando un flujo de trabajo consistente y generando changelogs automáticamente. Este enfoque mejora la calidad del código y la colaboración en el desarrollo de proyectos.
+
+<div style="text-align: center;">
+  <a href="https://github.com/emiliojrb26" target="_blank">@emiliojrb</a>
+</div>
