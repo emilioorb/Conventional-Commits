@@ -21,7 +21,7 @@ En este tutorial, aprenderemos a utilizar _Conventional Commits_ junto con _Comm
 
 ## Paso 2: Configuración de Commitlint
 
-_Commitlint_ es una herramienta de línea de comandos, pero la podemos integrar en nuestro proyecto e incluso unirlo a nuestro github para asegurarnos que cada que vamos hacer un commit ese hook se lance, verefique si sigue las normas de estilo de **Conventional Commits** y si es asi el commit se realizara.
+_Commitlint_ es una herramienta de línea de comandos, pero la podemos integrar en nuestro proyecto e incluso unirlo a nuestro github para asegurarnos que cada que vamos hacer un commit ese hook se lance, verifiqué si sigue las normas de estilo de **Conventional Commits** y si es asi el commit se realizara.
 
 1. Inicia un nuevo proyecto npm con `npm init -y`.
 2. Instala las dependencias de desarrollo:
