@@ -51,7 +51,7 @@ _Husky_ es una herramienta que simplifica la configuración de ganchos (hooks) d
    ```json
     "scripts": {
    "prepare": "husky install"
-   };
+   }
    ```
 
    Ejecuta el comando:
